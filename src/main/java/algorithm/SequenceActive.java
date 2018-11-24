@@ -1,4 +1,4 @@
-package hello;
+package algorithm;
 
 public class SequenceActive {
 
